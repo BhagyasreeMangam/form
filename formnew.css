@@ -1,0 +1,39 @@
+
+body {
+    padding: 10px;
+}
+.labelform {
+    text-align: center;
+    
+}
+.browse{
+    border: black 1px solid;
+    text-decoration: none;
+    color: black;
+    border-radius: 3px;
+}
+
+.table {
+    border-spacing: 10px;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.inputform {
+    background-color: hsl(51, 81%, 47%);
+    border: 0.1rem solid #222;
+    outline: 0px;
+}
+.legend {
+    background-color: red;
+    color: orange;
+    padding: 0.5rem;
+    border: 0.1rem solid #222;
+}
+.row {
+    margin: 20px;
+
+}
